@@ -25,8 +25,8 @@
   
 ### Class Projects
 ---
-- [Crime Block clusters in Chicago, IL]_
-  <img src="pdf/Crime, Block Cluster.pdf?raw=true">
+- [Crime Block clusters in Chicago, IL]
+  <img src="images/Crime_Patterns.jpg?raw=true"/>
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
