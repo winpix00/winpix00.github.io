@@ -16,7 +16,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-### Future projects
+### Future Projects
 
 - [Project 1: Capstone](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -27,7 +27,7 @@
 ---
 - [Crime Block clusters in Chicago, IL]
 - <img src="images/Crime_Patterns.jpg?raw=true"/>
-- [Project 2 Title](http://example.com/)
+- [Database Management Code for GIS](https://github.com/winpix00/CodingProjects/blob/main/Database%20Mangment)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
