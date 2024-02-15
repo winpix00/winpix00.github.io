@@ -26,7 +26,6 @@
 ### Class Projects
 ---
 - [Crime Block clusters in Chicago, IL](http://example.com/)
-  <img src="images/Crime_Block_ Cluster.pdf?raw=true"/>
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
