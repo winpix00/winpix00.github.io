@@ -29,7 +29,8 @@
 - <img src="images/Crime_Patterns.jpg?raw=true"/>
 - [Database Management Code for GIS](https://github.com/winpix00/CodingProjects/blob/main/Database%20Mangment)
 - [Arc Online Map
-- <img src="images/Screenshot 2024-02-21 184332.png"?raw=true"/>(https://uok.maps.arcgis.com/home/item.html?id=57bf7453592b455a96f419cd61c7fc22)
+- <img src="images/Screenshot 2024-02-21 184332.png/>"
+- (https://uok.maps.arcgis.com/home/item.html?id=57bf7453592b455a96f419cd61c7fc22)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
