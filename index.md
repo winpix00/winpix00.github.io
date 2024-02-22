@@ -28,7 +28,7 @@
 - [Crime Block clusters in Chicago, IL]
 - <img src="images/Crime_Patterns.jpg?raw=true"/>
 - [Database Management Code for GIS](https://github.com/winpix00/CodingProjects/blob/main/Database%20Mangment)
-- [Arc Online Map](https://github.com/winpix00/winpix00.github.io/blob/master/images/Screenshot%202024-02-20%20191646.png)
+- [Arc Online Map]((https://uok.maps.arcgis.com/home/item.html?id=33dbdb5d52d8428390165825be5d476c)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
