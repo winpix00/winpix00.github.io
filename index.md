@@ -1,8 +1,8 @@
 ## Auburn's Portfolio
-- [Contact Information]
-- [Email:warraub@gmail.com] 
-- [Bachelors: Geography]
-- [Masters: GIS (in process)]
+ Contact Information
+- Email:warraub@gmail.com
+- Bachelors: Geography
+- Masters: GIS (in process
 ---
 
 
