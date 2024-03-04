@@ -1,6 +1,6 @@
 ## Auburn's Portfolio
 ![Headshot](https://github.com/winpix00/winpix00.github.io/assets/146270641/d0c87a64-a13d-4145-a87e-f27d9a83c4eb)
-<img src="https://your-image-url.type" width="100" height="100">
+<img src="images/Headshot.jpg" width="25" height="25">
 
  Contact Information
 - Email:warraub@gmail.com
